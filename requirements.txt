@@ -1,0 +1,6 @@
+open_clip_torch
+pinecone-client
+torch
+torchvision
+pillow
+requests
